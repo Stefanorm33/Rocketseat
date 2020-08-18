@@ -34,4 +34,4 @@ function renderNomes(){
 
     }
 
-    buttonElement.onclick = addNome;
+    addNome();
